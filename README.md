@@ -1,6 +1,6 @@
 # Colour-analysis-and-image-processing-applied-in-fruit-analysis
 
-ABSTRACT 
+ ABSTRACT 
 
 
 India is also known as Agricultural Country. Fruit and Vegetable play a vital role in the Indian economy. color and appearance are the first attributes that attract us to a fruit or vegetable.
